@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main()
+// ADDING COMMENT USING VIM
+int mait()
 {
   printf("Hello world!\n");
   return 0;
